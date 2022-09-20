@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Wishlist</string>
     <string name="item_name">Item Name</string>
-    <string name="hint">hint</string>
+    <string name="store_name">Store Name</string>
     <string name="ex_http_example_example_my_item_url">Ex: http://example.example/my-item-url</string>
     <string name="submit">SUBMIT</string>
+    <string name="output_price">output_price</string>
+    <string name="output_url">output_url</string>
+    <string name="output_name">output_name</string>
 </resources>
