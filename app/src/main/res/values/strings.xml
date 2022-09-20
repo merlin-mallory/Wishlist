@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="item_name">Item Name</string>
+    <string name="hint">hint</string>
+    <string name="ex_http_example_example_my_item_url">Ex: http://example.example/my-item-url</string>
+    <string name="submit">SUBMIT</string>
+</resources>
